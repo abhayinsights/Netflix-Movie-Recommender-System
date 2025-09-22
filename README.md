@@ -32,6 +32,9 @@ The system uses [Kaggle Netflix Dataset]for training and recommendations.
 Run the application:
 python app.py 
 
+Install dependencies:
+pip install -r requirements.txt
+
 Future Enhancements
 
 Integrate real-time user feedback to improve recommendations.
